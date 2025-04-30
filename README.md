@@ -79,7 +79,9 @@ target_link_libraries(YourProject GTest::GTest GTest::Main)
 - [Google Test Documentation](https://google.github.io/googletest/)
 - [GTest GitHub](https://github.com/google/googletest)
 - [CMake Installation Guide](https://cmake.org/resources/)
-- [Design Patterns](https://refactoring.guru/design-patterns/catalog), [Short Overview](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=UrKzlO1jK0ZANmoQ)
+- [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+- [Short Overview](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=UrKzlO1jK0ZANmoQ)
+- [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Conclusion
 This repository contains multiple projects demonstrating key software design patterns (Decorator, Factory Method) and unit testing practices in Python and C++.
