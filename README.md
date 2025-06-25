@@ -86,3 +86,5 @@ target_link_libraries(YourProject GTest::GTest GTest::Main)
 ## Conclusion
 This repository contains multiple projects demonstrating key software design patterns (Decorator, Factory Method) and unit testing practices in Python and C++.
 
+## 📄 License
+This project is open source and available under the [Apache 2.0 License](LICENSE).
